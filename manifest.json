@@ -3,12 +3,13 @@
   "short_name": "BaatKro",
   "description": "A powerful real-time chat app to connect with people instantly.",
   "start_url": "/index.html",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
-  "orientation": "portrait",
+  "orientation": "portrait-primary",
   "lang": "en-US",
-  "id": "/",
+  "id": "baatkro.app",
   "icons": [
     {
       "src": "icon.png",
